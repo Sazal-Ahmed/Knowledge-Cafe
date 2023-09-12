@@ -1,9 +1,10 @@
 [
     {
         "Id": 1,
-        "cover": "https://i.ibb.co/26rzQHC/184.jpg",
+        "cover": "https://i.ibb.co/6swBQN0/4.jpg",
         "title": "The Adventure Begins",
-        "author_img": "https://i.ibb.co/mh6XQQn/young-confident-man-working-laptop-sitting-co-working-office.jpg",
+        "author_name":"John Abraham",
+        "author_img": "https://i.ibb.co/g7X6DVH/boy1.png",
         "posted_date": "2023-09-12",
         "reading_time": 120,
         "hashtags": ["adventure", "fiction", "exciting"]
@@ -11,9 +12,10 @@
 
       {
         "Id": 2,
-        "cover": "https://i.ibb.co/q5B8F0H/5348481.jpg",
-        "title": "Mystery Unveiled",
-        "author_img": "https://i.ibb.co/MZGm2qn/front-view-young-man-sunglasses-sitting-along-with-laptop-white-space.jpg",
+        "cover": "https://i.ibb.co/6tYKjZR/1.jpg",
+        "title": "Computer Hardware",
+        "author_name":"Tom Cruse",
+        "author_img": "https://i.ibb.co/cDYgSZJ/boy2.jpg",
         "posted_date": "2023-09-10",
         "reading_time": 90,
         "hashtags": ["mystery", "detective", "suspense"]
@@ -21,18 +23,21 @@
 
       {
         "Id": 3,
-        "cover": "https://i.ibb.co/7gTq9zD/5873518.jpg",
+        "cover": "https://i.ibb.co/sHymysb/2.png",
         "title": "Cooking Delights",
-        "author_img": "https://i.ibb.co/S5jLDNy/engineer-young-cute-smart-brunette-girl-civil-worker-helmet-vest.jpg",
+        "author_name":"Kethy Perry",
+        "author_img": "https://i.ibb.co/CzxmbLZ/girl1.jpg",
         "posted_date": "2023-09-08",
+
         "reading_time": 45,
         "hashtags": ["cooking", "recipes", "foodie"]
       },
       {
         "Id": 4,
-        "cover": "https://i.ibb.co/hRLMW2s/7081137.jpg",
+        "cover": "https://i.ibb.co/pvBrFtF/3.png",
         "title": "Tech Innovations",
-        "author_img": "https://i.ibb.co/Xsp06XD/happy-young-handsome-man-sitting-co-working-office.jpg",
+        "author_name":"Jacky Chain",
+        "author_img": "https://i.ibb.co/NNp2w9G/girl2.jpg",
         "posted_date": "2023-09-06",
         "reading_time": 60,
         "hashtags": ["technology", "innovation", "digital"]
