@@ -2,45 +2,45 @@
     {
         "Id": 1,
         "cover": "https://i.ibb.co/6swBQN0/4.jpg",
-        "title": "The Adventure Begins",
+        "title": "How to get your first job as a self-taught programmer",
         "author_name":"John Abraham",
         "author_img": "https://i.ibb.co/g7X6DVH/boy1.png",
-        "posted_date": "2023-09-12",
+        "posted_date": "Jan 14 (2 Days ago)",
         "reading_time": 120,
-        "hashtags": ["adventure", "fiction", "exciting"]
+        "hashtags": ["#beginners", "#programming"]
       },
 
       {
         "Id": 2,
         "cover": "https://i.ibb.co/6tYKjZR/1.jpg",
-        "title": "Computer Hardware",
+        "title": "How to get your first job as a self-taught programmer",
         "author_name":"Tom Cruse",
         "author_img": "https://i.ibb.co/cDYgSZJ/boy2.jpg",
-        "posted_date": "2023-09-10",
+        "posted_date": "Feb 15 (5 Days ago)",
         "reading_time": 90,
-        "hashtags": ["mystery", "detective", "suspense"]
+        "hashtags": ["#beginners", "#programming"]
       },
 
       {
         "Id": 3,
         "cover": "https://i.ibb.co/sHymysb/2.png",
-        "title": "Cooking Delights",
+        "title": "How to get your first job as a self-taught programmer",
         "author_name":"Kethy Perry",
         "author_img": "https://i.ibb.co/CzxmbLZ/girl1.jpg",
-        "posted_date": "2023-09-08",
+        "posted_date": "Mar 14 (4 Days ago)",
 
         "reading_time": 45,
-        "hashtags": ["cooking", "recipes", "foodie"]
+        "hashtags": ["#beginners", "#programming"]
       },
       {
         "Id": 4,
         "cover": "https://i.ibb.co/pvBrFtF/3.png",
-        "title": "Tech Innovations",
+        "title": "How to get your first job as a self-taught programmer",
         "author_name":"Jacky Chain",
         "author_img": "https://i.ibb.co/NNp2w9G/girl2.jpg",
-        "posted_date": "2023-09-06",
+        "posted_date": "April 14 (7 Days ago)",
         "reading_time": 60,
-        "hashtags": ["technology", "innovation", "digital"]
+        "hashtags": ["#beginners", "#programming"]
       }
      
       
